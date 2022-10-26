@@ -97,8 +97,7 @@ plt.savefig('Figure (1) Grafik Predator - Prey berdasarkan Persamaan Euler.png')
 ```
 
 Hasilnya adalah
-
-<img width="230" alt="Predator Prey" src="https://user-images.githubusercontent.com/97975571/197971057-67c7a786-5f45-4add-b2a7-a799bd3a750c.png">
+<img width="230" alt="Predator Prey" src="https://user-images.githubusercontent.com/97975571/197973220-7d1fb891-9a0c-460f-acf2-13507148406b.png">
 
 
 
